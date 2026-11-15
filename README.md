@@ -100,8 +100,14 @@ Je conçois et développe des applications web **performantes, maintenables et s
 ### 📊 Statistiques GitHub
 
 <p align="center">
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=Rh-Man&show_icons=true&hide_border=true&count_private=true" alt="Stats GitHub"/>
-  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Rh-Man&layout=compact&hide_border=true" alt="Langages les plus utilisés"/>
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="./profile-summary-card-output/github_dark/3-stats.svg">
+    <img height="180" src="./profile-summary-card-output/github/3-stats.svg" alt="">
+  </picture>
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="./profile-summary-card-output/github_dark/2-most-commit-language.svg">
+    <img height="180" src="./profile-summary-card-output/github/2-most-commit-language.svg" alt="">
+  </picture>
 </p>
 
 <p align="center"><i>Ouvert aux opportunités et aux collaborations. N'hésite pas à me contacter !</i></p>
